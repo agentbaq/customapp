@@ -1,6 +1,6 @@
 ## Customapp
 
-For customs fields
+For custom fields
 
 #### License
 
