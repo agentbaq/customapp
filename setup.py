@@ -12,7 +12,7 @@ setup(
 	version=version,
 	description='For customs fields',
 	author='Jibril',
-	author_email='jibrilkala@gmail.com',
+	author_email='',
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,
